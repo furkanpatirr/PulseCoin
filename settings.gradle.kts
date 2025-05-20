@@ -23,3 +23,4 @@ rootProject.name = "PulseCoin"
 include(":app")
 include(":core:network")
 include(":core:common")
+include(":core:database")
